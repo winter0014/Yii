@@ -3,11 +3,7 @@ two git
 
 gegn  gaile
 
-
-news dev commi
-
+new dev commit
 
 
-
-
-ldy1ss dt
+ldy
